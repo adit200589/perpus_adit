@@ -57,6 +57,7 @@
                   <div class="col-sm-6">
                     <div class="banner_taital_main">
                       <h1 class="banner_taital">Selamat Datang di Indobook</h1>
+                      <h1 class="banner_taital">Selamat Datang di Indobook</h1>
                       <div class="btn_main">
                         <div class="started_text"><a href="login.php">Login</a></div>
                         <div class="started_text active"><a href="register.php">Register</a></div>
